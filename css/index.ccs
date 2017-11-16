@@ -1,0 +1,43 @@
+body{
+  background-color:#EEEEEE;
+}
+
+#container{
+  width: 70%;
+  margin: 1em auto;
+  
+}
+
+
+.limpia{
+  clear: both;
+ 
+}
+
+.login{
+  margin: 0 auto;
+  padding-top: 0.5em;
+  background-color: #EEEEEE;
+  width: 70%;
+   display: inline-block;
+  vertical-align: top;
+}
+
+.registro{
+  margin: 0 auto;
+  padding-top: 0.5em;
+  background-color: #EEEEEE;
+  width: 70%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+#caja1{
+	width: 40%;
+	 float:left;
+	}
+
+#caja2{
+	width: 40%;
+	 float:right;
+		}
